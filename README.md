@@ -23,7 +23,7 @@ Video here:
 https://youtu.be/3fGhq8m08SM
 
 Diagram was put together pretty quick so *No guarantees here*, but Please contact if you notice any errors.
-<img src="https://github.com/Maxhirez/KnobSequencerPOC/blob/master/knobSequencerCV_bb.png" width="100%">
+<img src="https://github.com/Maxhirez/KnobSequencerPOC/blob/master/knobSequencerCV_bb.png" width="100%" />
 BOM:
 <ul>
   <li>Arduino Nano Every or compatible</li>

@@ -7,3 +7,4 @@ Video here:
 https://youtu.be/3fGhq8m08SM
 
 Diagram was put together pretty quick so *No guarantees here*, but Please contact if you notice any errors.
+<img src="https://github.com/Maxhirez/KnobSequencerPOC/blob/master/knobSequencerCV_bb.png" width="100%">

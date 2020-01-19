@@ -17,6 +17,8 @@ Possible modifications (untested):
   <li>CV in with knob out-A0 shunted through switching jack (voltage clamp!)</li>
   <li>Gate in with write button-D3 shunted through switching jack (voltage clamp!)</li>
   </ul>
+  <li>"Last Note" button for sequences<16 steps</li>
+  <li>Internal clock option (with second pot.  BPM readout will be a challenge though-perhaps I2C 3x7-segment display?)</li>
 </ul>
 
 Video here:

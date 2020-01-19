@@ -12,12 +12,12 @@ Possible modifications (untested):
   <li>Second track (noted)</li>
   <li>Output quantizer option (noted)</li>
   <li>Set-step-to-first button (any non-328 board should have enough interrupt pins)</li>
+  <li>"Last Note" button for sequences <16 steps (")</li>
   <li>To record played notes from CV keyboard/controller:</li>
   <ul>
   <li>CV in with knob out-A0 shunted through switching jack (voltage clamp!)</li>
   <li>Gate in with write button-D3 shunted through switching jack (voltage clamp!)</li>
   </ul>
-  <li>"Last Note" button for sequences<16 steps</li>
   <li>Internal clock option (with second pot.  BPM readout will be a challenge though-perhaps I2C 3x7-segment display?)</li>
 </ul>
 

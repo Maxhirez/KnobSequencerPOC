@@ -38,4 +38,5 @@ BOM:
   <li>3x momentary contact switches</li>
   <li>3 CV jacks, at least one switched (size compatible with your system)</li>
 </ul>
+<img src="https://github.com/Maxhirez/KnobSequencerPOC/blob/master/knobSequencerCV.png" width="100%" />
 
